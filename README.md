@@ -22,22 +22,6 @@ Evaluate whether employee training programs improve employee performance and eng
 ## Tools & Technologies Used
 - SQL
 - Power BI
-- Excel
-
----
-
-## Dataset Features
-The dataset includes:
-- Employee Demographics
-- Salary Information
-- Department & Position
-- Performance Ratings
-- Work Hours
-- Training Hours
-- Promotion Status
-- Employee Engagement Scores
-- Attrition Information
-
 ---
 
 ## Data Cleaning & Preparation
