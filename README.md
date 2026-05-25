@@ -1,4 +1,4 @@
-# HR Attrition & Training Analytics
+# HR Analytics Project – Employee Attrition Analysis
 
 ## Background
 Adviti Pvt. Ltd. is a multifaceted consulting firm operating across various industry domains. The company focuses on leveraging data-driven insights to improve organizational efficiency and strategic decision-making.
